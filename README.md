@@ -1,2 +1,2 @@
-# Projeto-2025
-1°semestre 
+# Projeto 2° Semestre 
+loja virtual Pizzaria 
